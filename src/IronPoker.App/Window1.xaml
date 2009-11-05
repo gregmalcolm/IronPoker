@@ -1,0 +1,8 @@
+﻿<Window x:Class="IronPoker.App.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="IronPoker" Height="210" Width="531" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock Name="textBlock1" TextWrapping="Wrap" Foreground="White" Background="DarkSeaGreen" FontSize="20" Padding="20">GUI not implemented yet!<LineBreak/>There is code in 'IronPoker',<LineBreak/>NUnit Tests in 'IronPoker.Tests'<LineBreak/>and Cucumber tests in 'IronPoker.Cucumber</TextBlock>
+    </Grid>
+</Window>

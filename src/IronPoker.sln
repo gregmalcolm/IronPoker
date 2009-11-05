@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPoker", "IronPoker\IronPoker.csproj", "{39EAD4B3-2D3D-43A6-B9FB-6C6AD045EC2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPoker.Cucumber", "IronPoker.Cucumber\IronPoker.Cucumber.csproj", "{DAFD0D4A-6E27-4BF4-9F23-8BC287A7ABE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPoker.Tests", "IronRuby.Tests\IronPoker.Tests.csproj", "{1FAA370C-DB24-4CBE-9797-B6939185B3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPoker.App", "IronPoker.App\IronPoker.App.csproj", "{3429A791-DF35-4ADA-BCD1-07122D32BD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EAD4B3-2D3D-43A6-B9FB-6C6AD045EC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EAD4B3-2D3D-43A6-B9FB-6C6AD045EC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EAD4B3-2D3D-43A6-B9FB-6C6AD045EC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EAD4B3-2D3D-43A6-B9FB-6C6AD045EC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFD0D4A-6E27-4BF4-9F23-8BC287A7ABE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFD0D4A-6E27-4BF4-9F23-8BC287A7ABE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFD0D4A-6E27-4BF4-9F23-8BC287A7ABE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFD0D4A-6E27-4BF4-9F23-8BC287A7ABE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FAA370C-DB24-4CBE-9797-B6939185B3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAA370C-DB24-4CBE-9797-B6939185B3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAA370C-DB24-4CBE-9797-B6939185B3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAA370C-DB24-4CBE-9797-B6939185B3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3429A791-DF35-4ADA-BCD1-07122D32BD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3429A791-DF35-4ADA-BCD1-07122D32BD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3429A791-DF35-4ADA-BCD1-07122D32BD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3429A791-DF35-4ADA-BCD1-07122D32BD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

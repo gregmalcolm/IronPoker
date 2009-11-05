@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\NUnit 2.4.8\bin\nunit.exe</StartProgram>
+    <StartArguments>IronPoker.Tests.dll /run</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\NUnit 2.4.8\bin\nunit.exe</StartProgram>
+    <StartArguments>IronPoker.Tests.dll /run</StartArguments>
+  </PropertyGroup>
+</Project>
