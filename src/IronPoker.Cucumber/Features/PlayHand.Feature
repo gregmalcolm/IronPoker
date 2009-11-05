@@ -14,4 +14,4 @@
 
     Examples:
       |   card_1   |   card_2   |   card_3   |   card_4   |   card_5   |      output     |
-  	  | 3 Clubs    | 3 Spades   | J Clubs    | 9 Diamonds | 3 Spades   | One Pair        |
+  	  | 3 Clubs    | 3 Spades   | J Clubs    | 9 Diamonds | A Spades   | One Pair        |
