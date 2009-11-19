@@ -1,4 +1,9 @@
 IronPoker demo
 ==============
 
-Code is just for the purpose of demonstrating how to use IronRuby and Cucumber in a tutorial coming soon on http://gregmalcolm.com
+Code is just for the purpose of demonstrating how to use IronRuby and Cucumber in a tutorial at the following site:
+
+http://gregmalcolm.com/archive/2009/11/05/ironruby-and-cucumber-part-3-cucumber-tutorial.aspx
+
+
+At the moment it is not a complete Poker game. There is just enough code to demonstration Cucumber tests to analyse poker hands.
